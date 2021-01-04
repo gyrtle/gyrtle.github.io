@@ -1,0 +1,11 @@
+html {overflow-y: scroll}
+body{max-width:800px;margin:40px auto;padding:0 10px;font:13px/1.5 monospace;color:#444}h1,h2,h3{line-height:1.2}
+@media (prefers-color-scheme: dark){body{color:white;background:#444}
+a:link{color:#eee8d5;text-decoration:none}a:visited{color:#fdf6e3;text-decoration:none}}
+p > code{color: #cb4b16; background:#fdf6e3; padding:2px}
+pre{color: #859900; background:#fdf6e3; padding:24px; overflow-x: auto}
+article{padding:24px 0}
+.center {display: block;margin-left: auto;margin-right: auto;width: 100%;}
+img {display: block; max-width: 100%; height: auto;}
+figcaption {color: #888; font: 11px/1.5 monospace; text-align: center;}
+figure {margin: auto}
