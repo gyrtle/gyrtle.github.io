@@ -3,20 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gyrtle.github.io/about/</loc>
-    <lastmod>2021-01-04T06:47:29+09:00</lastmod>
+    <loc>https://gyrtle.github.io/categories/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gyrtle.github.io/categories/</loc>
+    <loc>https://gyrtle.github.io/categories/code/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://gyrtle.github.io/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gyrtle.github.io/tags/markdown/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gyrtle.github.io/posts/p0001/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://gyrtle.github.io/tags/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gyrtle.github.io/tags/webdev/</loc>
+    <lastmod>2021-01-05T10:47:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gyrtle.github.io/posts/</loc>
+    <lastmod>2021-01-05T10:41:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gyrtle.github.io/about/</loc>
+    <lastmod>2021-01-04T06:47:29+09:00</lastmod>
   </url>
   
 </urlset>

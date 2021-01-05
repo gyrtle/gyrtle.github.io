@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giggles on Gyrtle.log</title>
+    <link>https://gyrtle.github.io/posts/</link>
+    <description>Recent content in Giggles on Gyrtle.log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rightfully unreserved</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 10:41:13 +0900</lastBuildDate><atom:link href="https://gyrtle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On my mark, HU GO?</title>
+      <link>https://gyrtle.github.io/posts/p0001/</link>
+      <pubDate>Tue, 05 Jan 2021 10:47:53 +0900</pubDate>
+      
+      <guid>https://gyrtle.github.io/posts/p0001/</guid>
+      <description>Gomper Gyrtle goeth!!</description>
+    </item>
+    
+  </channel>
+</rss>

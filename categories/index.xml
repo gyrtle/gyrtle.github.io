@@ -6,6 +6,16 @@
     <description>Recent content in Categories on Gyrtle.log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Rightfully unreserved</copyright><atom:link href="https://gyrtle.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Rightfully unreserved</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 10:47:53 +0900</lastBuildDate><atom:link href="https://gyrtle.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code</title>
+      <link>https://gyrtle.github.io/categories/code/</link>
+      <pubDate>Tue, 05 Jan 2021 10:47:53 +0900</pubDate>
+      
+      <guid>https://gyrtle.github.io/categories/code/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
